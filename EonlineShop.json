@@ -1,0 +1,26 @@
+[
+  {
+    "product_id": 101,
+    "name": "Wireless Mouse",
+    "category": "Electronics",
+    "price": 25.99,
+    "stock": 167,
+    "rating": 4.3
+  },
+  {
+    "product_id": 102,
+    "name": "Bluetooth Headphones",
+    "category": "Electronics",
+    "price": 45.0,
+    "stock": 89,
+    "rating": 4.8
+  },
+  {
+    "product_id": 103,
+    "name": "Espresso Machine",
+    "category": "Home Appliances",
+    "price": 120.5,
+    "stock": 42,
+    "rating": 4.6
+  }
+]

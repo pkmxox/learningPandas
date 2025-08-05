@@ -1,0 +1,11 @@
+Name,Email,Age,Join Date,Salary
+Alice Johnson,alice.johnson@example.com,29,2021-06-15,55000
+Bob Lee,bob.lee[at]example.com,,15-07-2020,59000
+Charlie Kim,charlie.kim@example.com,twenty-five,2019/03/22,
+Alice Johnson,alice.johnson@example.com,29,2021-06-15,55000
+David Smith,,42,2020-12-01,63000
+Eva Wang,eva.wang@example,27,2022-02-30,52000
+Frank Thomas,frank.thomas@example.com,35,2021-11-07,abc
+Grace Hopper,grace.hopper@example.com,31,2021-05-29,61500
+,,,
+Helen Zhao,helen.zhao@example.com,28,2021-10-10,58000
